@@ -14,16 +14,20 @@ Good luck & happy coding !
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Made with ❤️ by HelloDev</title>
     <!-- Ici, réaliser un lien avec le fichier styles.css -->
-
+    <link rel="stylesheet" href="./assets/css/styles.css">
     <!-- Ici, réaliser un lien avec le fichier main.js sans oublier l'attribut DEFER ou ASYNC -->
-
+    <script src="./assets/js/main.js"></script>
 </head>
 
 <body>
     <h1 class="text-center py-10">Learn PHP - Step 0</h1>
-    <!-- Ici, réaliser une ouverture et une fermeture de balise de type PHP -->
-
-    <!-- Dans la balise PHP, déclarer une variable NAME ayant pour valeur votre prénom. Ensuite, effectuer un print grâce à la méthode ECHO -->
+    <!-- Ici, réaliser une ouverture et une fermeture de balise de type PHP
+    Dans la balise PHP, déclarer une variable NAME ayant pour valeur votre prénom. Ensuite, effectuer un print grâce à la méthode ECHO 
+    -->
+    <?php
+        $name = "Enrick";
+        echo $name;
+    ?>
 </body>
 
 </html>
