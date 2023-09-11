@@ -50,7 +50,11 @@ Good luck & happy coding !
 
     <!-- Step 0.6 -->
     <!-- Déclarer une variable PRODUCTS. Le type primitif est un tableau. Ajouter plusieurs produits de votre choix en "dur". 
-    Afficher les informations de cette variable avec la méthode var_dump.
+    Afficher les informations de cette variable avec la méthode VAR_DUMP.
+    -->
+
+    <!-- Step 0.7 -->
+    <!-- Quelle est la différence entre les méthodes ECHO et VAR_DUMP ?
     -->
    
 </body>
