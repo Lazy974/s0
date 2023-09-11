@@ -63,11 +63,19 @@ Good luck & happy coding !
 
     <!-- Step 0.9 -->
     <!-- 
-        PRINT_R est équivalent à ECHO ?
-        PRINT_R est équivalent à VAR_DUMP ?
-        ECHO est équivalent à VAR_DUMP ?
+    PRINT_R est équivalent à ECHO ?
+    PRINT_R est équivalent à VAR_DUMP ?
+    ECHO est équivalent à VAR_DUMP ?
     -->
 
+    <!-- Step 1 -->
+    <!--
+    Bravo, vous venez de terminer votre initiation à PHP ! Passons à la suite en vous rendant sur ce lien :
+
+    https://github.com/Lazy974/s1
+
+    Made with ❤️ by HelloDev
+    -->
 </body>
 
 </html>
