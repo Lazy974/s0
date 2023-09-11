@@ -56,7 +56,11 @@ Good luck & happy coding !
     <!-- Step 0.7 -->
     <!-- Quelle est la différence entre les méthodes ECHO et VAR_DUMP ?
     -->
-   
+
+    <!-- Step 0.8 -->
+    <!-- Déclarer une variable de type string. Afficher les informations de cette variable avec la méthode PRINT_R.
+    -->
+
 </body>
 
 </html>
