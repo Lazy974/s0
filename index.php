@@ -42,6 +42,11 @@ Good luck & happy coding !
     <!-- Step 0.4 -->
     <!-- Quelles types primitifs n'ont pas pu être déclarés ?
     -->
+
+
+    <!-- Step 0.5 -->
+    <!-- Déclarer une variable X et une variable Y. Leurs types primitif est un nombre. Additionner les deux valeurs dans une variable SUM puis un print du total avec la méthode ECHO.
+    -->
 </body>
 
 </html>
