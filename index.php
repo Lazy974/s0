@@ -37,6 +37,11 @@ Good luck & happy coding !
     <!-- Step 0.3 -->
     <!-- Déclarer des variables avec tous les types primitif en PHP.
     -->
+
+
+    <!-- Step 0.4 -->
+    <!-- Quelles types primitifs n'ont pas pu être déclarés ?
+    -->
 </body>
 
 </html>
