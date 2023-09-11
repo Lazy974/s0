@@ -34,6 +34,9 @@ Good luck & happy coding !
     <!-- Déclarer des variables avec tous les types primitif en PHP.
     -->
 
+    <!-- Step 0.3 -->
+    <!-- Déclarer des variables avec tous les types primitif en PHP.
+    -->
 </body>
 
 </html>
