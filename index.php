@@ -47,6 +47,12 @@ Good luck & happy coding !
     <!-- Step 0.5 -->
     <!-- Déclarer une variable X et une variable Y. Leurs types primitif est un nombre. Additionner les deux valeurs dans une variable SUM puis un print du total avec la méthode ECHO.
     -->
+
+    <!-- Step 0.6 -->
+    <!-- Déclarer une variable PRODUCTS. Le type primitif est un tableau. Ajouter plusieurs produits de votre choix en "dur". 
+    Afficher les informations de cette variable avec la méthode var_dump.
+    -->
+   
 </body>
 
 </html>
