@@ -29,6 +29,11 @@ Good luck & happy coding !
     <!-- Step 0.1 -->
     <!-- Déclarer une variable LASTNAME ayant pour valeur votre nom de famille puis effectuer une concaténation avec NAME. Enfin, faites un print avec la méthode ECHO.
     Exemple : John Doe -->
+
+    <!-- Step 0.2 -->
+    <!-- Déclarer des variables avec tous les types primitif en PHP.
+    -->
+
 </body>
 
 </html>
