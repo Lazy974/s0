@@ -61,6 +61,13 @@ Good luck & happy coding !
     <!-- Déclarer une variable de type string. Afficher les informations de cette variable avec la méthode PRINT_R.
     -->
 
+    <!-- Step 0.9 -->
+    <!-- 
+        PRINT_R est équivalent à ECHO ?
+        PRINT_R est équivalent à VAR_DUMP ?
+        ECHO est équivalent à VAR_DUMP ?
+    -->
+
 </body>
 
 </html>
